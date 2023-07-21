@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/crop_insurance_assistance/BuildConfig.java
+ com.crop_insurance_assistance.BuildConfig

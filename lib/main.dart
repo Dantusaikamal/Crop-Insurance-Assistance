@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:plant_disease_detector/helper/local_string.dart';
-import 'package:plant_disease_detector/services/disease_provider.dart';
-import 'package:plant_disease_detector/src/insurance/components/insurance_providers.dart';
-import 'package:plant_disease_detector/src/home_page/home.dart';
-import 'package:plant_disease_detector/src/home_page/models/disease_model.dart';
-import 'package:plant_disease_detector/src/onboading.dart';
-import 'package:plant_disease_detector/src/suggestions_page/suggestions.dart';
+import 'package:crop_insurance_assistance/helper/local_string.dart';
+import 'package:crop_insurance_assistance/services/disease_provider.dart';
+import 'package:crop_insurance_assistance/src/insurance/components/insurance_providers.dart';
+import 'package:crop_insurance_assistance/src/home_page/home.dart';
+import 'package:crop_insurance_assistance/src/home_page/models/disease_model.dart';
+import 'package:crop_insurance_assistance/src/onboading.dart';
+import 'package:crop_insurance_assistance/src/suggestions_page/suggestions.dart';
 
 import 'package:provider/provider.dart';
 

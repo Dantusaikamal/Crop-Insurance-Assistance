@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.suis.plant_disease_detector" "\0"
+            VALUE "CompanyName", "com.suis.crop_insurance_assistance" "\0"
             VALUE "FileDescription", "An app that detects a plant's disease from a photo of the plant" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "plant_disease_detector" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2021 com.suis.plant_disease_detector. All rights reserved." "\0"
-            VALUE "OriginalFilename", "plant_disease_detector.exe" "\0"
-            VALUE "ProductName", "plant_disease_detector" "\0"
+            VALUE "InternalName", "crop_insurance_assistance" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2021 com.suis.crop_insurance_assistance. All rights reserved." "\0"
+            VALUE "OriginalFilename", "crop_insurance_assistance.exe" "\0"
+            VALUE "ProductName", "crop_insurance_assistance" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

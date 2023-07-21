@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:plant_disease_detector/data/languages.dart';
+import 'package:crop_insurance_assistance/data/languages.dart';
 import 'package:translator/translator.dart';
 
 class LangController extends GetxController {

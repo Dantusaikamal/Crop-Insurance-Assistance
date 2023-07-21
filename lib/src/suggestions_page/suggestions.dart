@@ -2,17 +2,17 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:plant_disease_detector/constants/constants.dart';
-import 'package:plant_disease_detector/constants/dimensions.dart';
-import 'package:plant_disease_detector/helper/lang_controller.dart';
-import 'package:plant_disease_detector/services/disease_provider.dart';
-import 'package:plant_disease_detector/src/home_page/models/disease_model.dart';
-import 'package:plant_disease_detector/src/suggestions_page/components/plant_image.dart';
-import 'package:plant_disease_detector/src/widgets/app_icon.dart';
-import 'package:plant_disease_detector/src/widgets/big_text.dart';
-import 'package:plant_disease_detector/src/widgets/small_text.dart';
-import 'package:plant_disease_detector/src/widgets/spacing.dart';
-import 'package:plant_disease_detector/src/widgets/suggestion_card.dart';
+import 'package:crop_insurance_assistance/constants/constants.dart';
+import 'package:crop_insurance_assistance/constants/dimensions.dart';
+import 'package:crop_insurance_assistance/helper/lang_controller.dart';
+import 'package:crop_insurance_assistance/services/disease_provider.dart';
+import 'package:crop_insurance_assistance/src/home_page/models/disease_model.dart';
+import 'package:crop_insurance_assistance/src/suggestions_page/components/plant_image.dart';
+import 'package:crop_insurance_assistance/src/widgets/app_icon.dart';
+import 'package:crop_insurance_assistance/src/widgets/big_text.dart';
+import 'package:crop_insurance_assistance/src/widgets/small_text.dart';
+import 'package:crop_insurance_assistance/src/widgets/spacing.dart';
+import 'package:crop_insurance_assistance/src/widgets/suggestion_card.dart';
 import 'package:provider/provider.dart';
 import 'package:translator/translator.dart';
 

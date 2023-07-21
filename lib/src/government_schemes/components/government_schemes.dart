@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:plant_disease_detector/constants/constants.dart';
-import 'package:plant_disease_detector/constants/dimensions.dart';
-import 'package:plant_disease_detector/helper/lang_controller.dart';
-import 'package:plant_disease_detector/src/home_page/components/greeting.dart';
-import 'package:plant_disease_detector/src/government_schemes/components/schemes.dart';
-import 'package:plant_disease_detector/src/home_page/components/titlesection.dart';
-import 'package:plant_disease_detector/src/widgets/spacing.dart';
+import 'package:crop_insurance_assistance/constants/constants.dart';
+import 'package:crop_insurance_assistance/constants/dimensions.dart';
+import 'package:crop_insurance_assistance/helper/lang_controller.dart';
+import 'package:crop_insurance_assistance/src/home_page/components/greeting.dart';
+import 'package:crop_insurance_assistance/src/government_schemes/components/schemes.dart';
+import 'package:crop_insurance_assistance/src/home_page/components/titlesection.dart';
+import 'package:crop_insurance_assistance/src/widgets/spacing.dart';
 import 'package:provider/provider.dart';
 import 'package:translator/translator.dart';
-import 'package:plant_disease_detector/src/widgets/spacing.dart';
+import 'package:crop_insurance_assistance/src/widgets/spacing.dart';
 
 class GovernmentSchemescreen extends StatelessWidget {
   const GovernmentSchemescreen({Key? key}) : super(key: key);

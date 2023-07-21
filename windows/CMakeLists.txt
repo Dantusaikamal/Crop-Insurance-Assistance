@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(plant_disease_detector LANGUAGES CXX)
+project(crop_insurance_assistance LANGUAGES CXX)
 
-set(BINARY_NAME "plant_disease_detector")
+set(BINARY_NAME "crop_insurance_assistance")
 
 cmake_policy(SET CMP0063 NEW)
 
