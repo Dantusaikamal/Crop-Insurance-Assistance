@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:crop_insurance_assistance/constants/constants.dart';
+import 'package:plant_disease_detector/constants/constants.dart';
 
 class PlantImage extends StatelessWidget {
   const PlantImage(

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:crop_insurance_assistance/constants/constants.dart';
-import 'package:crop_insurance_assistance/constants/dimensions.dart';
-import 'package:crop_insurance_assistance/src/widgets/small_text.dart';
+import 'package:plant_disease_detector/constants/constants.dart';
+import 'package:plant_disease_detector/constants/dimensions.dart';
+import 'package:plant_disease_detector/src/widgets/small_text.dart';
 import 'package:get/get.dart';
-import 'package:crop_insurance_assistance/src/widgets/spacing.dart';
+import 'package:plant_disease_detector/src/widgets/spacing.dart';
 
 class SchemesSection extends StatefulWidget {
   const SchemesSection({Key? key}) : super(key: key);

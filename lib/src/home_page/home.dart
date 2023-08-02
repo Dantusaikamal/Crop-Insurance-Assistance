@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'package:crop_insurance_assistance/constants/constants.dart';
+import 'package:plant_disease_detector/constants/constants.dart';
 
-import 'package:crop_insurance_assistance/src/home_page/components/hidden_drawer.dart';
-import 'package:crop_insurance_assistance/src/home_page/components/home_screen.dart';
+import 'package:plant_disease_detector/src/home_page/components/hidden_drawer.dart';
+import 'package:plant_disease_detector/src/home_page/components/home_screen.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);

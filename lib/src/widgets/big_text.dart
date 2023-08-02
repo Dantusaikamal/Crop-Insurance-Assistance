@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:crop_insurance_assistance/constants/dimensions.dart';
+import 'package:plant_disease_detector/constants/dimensions.dart';
 
 class BigText extends StatelessWidget {
   final Color? color;
