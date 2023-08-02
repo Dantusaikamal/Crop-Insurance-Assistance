@@ -2,14 +2,14 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:crop_insurance_assistance/constants/constants.dart';
-import 'package:crop_insurance_assistance/constants/dimensions.dart';
-import 'package:crop_insurance_assistance/services/disease_provider.dart';
-import 'package:crop_insurance_assistance/services/hive_database.dart';
-import 'package:crop_insurance_assistance/src/home_page/models/disease_model.dart';
-import 'package:crop_insurance_assistance/src/suggestions_page/suggestions.dart';
+import 'package:plant_disease_detector/constants/constants.dart';
+import 'package:plant_disease_detector/constants/dimensions.dart';
+import 'package:plant_disease_detector/services/disease_provider.dart';
+import 'package:plant_disease_detector/services/hive_database.dart';
+import 'package:plant_disease_detector/src/home_page/models/disease_model.dart';
+import 'package:plant_disease_detector/src/suggestions_page/suggestions.dart';
 import "package:get/get.dart";
-import 'package:crop_insurance_assistance/src/widgets/spacing.dart';
+import 'package:plant_disease_detector/src/widgets/spacing.dart';
 
 class HistorySection extends StatefulWidget {
   final Size size;

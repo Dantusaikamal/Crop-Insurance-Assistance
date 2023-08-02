@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:crop_insurance_assistance/constants/constants.dart';
+import 'package:plant_disease_detector/constants/constants.dart';
 
 // ignore: must_be_immutable
 class TextProperty extends StatelessWidget {
